@@ -26,7 +26,7 @@ export default function AuthComponent() {
             </h1>
             <p>
                
-               { "It is a platform that build  usingand Chatgpt's  API to  create a ChatGPT like that can answer with our own knowledge bas."}
+               { "It is a platform that build  using vector db and Chatgpt's  API to  create a ChatGPT like that can answer with our own knowledge base please don't ask something unrelated."}
                
 
             </p>
